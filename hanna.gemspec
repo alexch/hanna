@@ -13,7 +13,7 @@ Gem::Specification.new do |gem|
   
   gem.add_dependency 'rdoc', Hanna::RDOC_VERSION_REQUIREMENT
   gem.add_dependency 'haml', '~> 2.2.8'
-  gem.add_dependency 'rake', '~> 0.8.2'
+  gem.add_dependency 'rake', '~> 0'
   
   gem.email = 'mislav.marohnic@gmail.com'
   gem.homepage = 'http://github.com/mislav/' + gem.name
