@@ -1,6 +1,6 @@
 module Hanna
 
-  VERSION = '0.1.13'
+  VERSION = '0.1.14'
 
   # The version of RDoc that Hanna should use
   RDOC_VERSION = '2.3.0'
